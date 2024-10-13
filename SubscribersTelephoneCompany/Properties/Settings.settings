@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SubscribersTelephoneCompany.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="пп" Type="System.Windows.Forms.BorderStyle" Scope="User">
+      <Value Profile="(Default)">FixedSingle</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
